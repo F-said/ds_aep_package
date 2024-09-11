@@ -66,7 +66,7 @@ To help you all ideate on the kinds of projects you can complete, check out the 
 
 ## Sprint 1
 
-For Sprint 1, we will set up our workspace and choose an appropriate project based on your interests.
+For Sprint 1, we will set up our technical workspace and choose an appropriate project based on our interests.
 
 **Environment Setup**
 
