@@ -40,7 +40,7 @@ For example, if you are interested in applying to a tech-startup that specialize
 
 With your technical expertise, you could easily see how you could use software tools to scrape data and calculate these metrics. Sharing such insight would not only show your raw technical skillset (which, without seniority, often isn't enough these days) but also your ability to apply this expertise to real problems.
 
-We will be asking you to do the same during this fellowship and follow this paradigm of job-applications. While more information on these steps are listed in the document titled `carey_frame.md`, the most essential steps include the following:
+We will be asking you to do the same during this fellowship and follow this paradigm of job-applications. While the original method is listed in the video linked above, the most essential steps of this process include the following:
 
 1. Identify 1-3 companies that are actively hiring that you are interested in (Clay optional). 
 2. Ideate 3 analytics (or data engineering) projects ideas for each company (LLM-usage encouraged).
