@@ -1,6 +1,6 @@
 # Project
 
-For this fellowship you will be developing an interesting analysis (or engineering) data project that is immediately applicable to a specific company or role that you would like to apply to. 
+For this fellowship you will be developing an analysis (or engineering) data project that is immediately applicable to a specific company or role that you would like to apply to. 
 
 While the ideation portion of this project is covered under the **Project Framework** section in your `README.md` file, this document will describe the planning steps you should take before completing this project.
 
@@ -17,7 +17,9 @@ More information listed in each subsequent section below
 
 ## Goals
 
-This should go beyond technical terms and accurately describe the *thing* that your project accomplishes.
+This should go beyond technical terms and accurately describe the *thing* that your project will accomplish. If you were to describe the purpose of this project to someone that does not operate in Python, or in any other technical capacity, how would you describe it to them?
+
+For example, if you were designing a project that scraped data from multiple "predictions markets" and evaluated "market sentiment" by calculating descriptive statistics, you may state that the overarching goal of this project is to *"Evaluate and identify to which political or economic outcome the market is biased towards, by aggregating prediction market trends.*"
 
 ## Requirements
 **Analytics**
@@ -28,7 +30,8 @@ This should go beyond technical terms and accurately describe the *thing* that y
 
 ## Datasets
 
-
+There are also datasets that are readily available for you to use, just ask your staff for access:
+* honeypot cyber-intrusion data
 
 ## Tech-Stack
 
