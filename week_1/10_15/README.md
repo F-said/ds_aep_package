@@ -62,7 +62,7 @@ To help you all ideate on the kinds of projects you can complete, check out the 
 
 * [Reddit Data Engineering](https://github.com/mjcolon218/RedditDataEngineering): An ETL pipeline to pull data from the Reddit API and store into a RedShift cluster.
 * [Steam Prices Data Engineering](https://github.com/edseldim/steam_prices_data_engineering?tab=readme-ov-file): An ETL pipeline to pull Steam prices for comparative analysis.
-* [Smart City Data Engineering](https://github.com/edseldim/steam_prices_data_engineering?tab=readme-ov-file): An ETL pipeline to process telemetric data.
+* [Smart City Data Engineering](https://github.com/mjcolon218/smart_city_data_engineering_project): An ETL pipeline to process telemetric data.
 
 ## Sprint 1
 

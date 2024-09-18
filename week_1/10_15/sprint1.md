@@ -22,16 +22,36 @@ This should go beyond technical terms and accurately describe the *thing* that y
 For example, if you were designing a project that scraped data from multiple "predictions markets" and evaluated "market sentiment" by calculating descriptive statistics, you may state that the overarching goal of this project is to *"Evaluate and identify to which political or economic outcome the market is biased towards, by aggregating prediction market trends.*"
 
 ## Requirements
+
+Each project, regardless of its core-content, will fulfill the outlined specifications (based on the type of project you choose).
+
 **Analytics**
-* 
+* Exploratory analysis is performed
+* Confirmatory findings through statistical analysis is done
+* Data cleaning, validation, and potentially transformation is performed
+* Repository is organized
+* Comprehensive README on findings is complete
 
 **Engineering**
-* 
+* ETL/ELT pipeline is complete
+* Non-local data store is set up
+* Code abides by Pythonic standard
+* Code abides by OOP design principles (where applicable)
+* Code is well documented
+* Brief README on project architecture is complete
 
 ## Datasets
 
+For your targeted project, ideate and find a dataset that will allow you to complete your planned goals. Utilize the following resources to find your data:
+* https://data.gov/
+* https://www.kaggle.com/datasets
+* https://datasetsearch.research.google.com/
+
+Sometimes, this 
+
 There are also datasets that are readily available for you to use, just ask your staff for access:
 * honeypot cyber-intrusion data
+* anonymized educational data
 
 ## Tech-Stack
 
