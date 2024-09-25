@@ -13,13 +13,15 @@ This includes:
 * Solutions: How will you address each risk?
 * Schedule: This is also filled for you already. This is simply the syllabus schedule. 
 
-More information listed in each subsequent section below
+More information is listed in each subsequent section below
 
 ## Goals
 
-You should begin your project by identifying your overarching goals.
+You should begin your project by stating your overarching goals.
 
 This goes beyond technical terms and describes the *thing* that your project will accomplish. If you were to describe the purpose of this project to someone that does not operate in Python, or in any other technical capacity, how would you describe it to them?
+
+Keep in mind that 3 weeks is a fairly quick turnaround to develop a comprehensive MVP, so expectations should be tempered. In fact, you should aim for a goal that could be complete within two weeks of moderate work. 
 
 For example, if you were designing a project that scraped data from multiple "predictions markets" and evaluated "market sentiment" by calculating descriptive statistics, you may state that the overarching goal of this project is to *"Evaluate and identify to which political or economic outcome the market is biased towards, by aggregating prediction market trends.*"
 
@@ -51,25 +53,54 @@ For your targeted project, ideate and find a dataset that will allow you to comp
 * https://www.kaggle.com/datasets
 * https://datasetsearch.research.google.com/
 
-Sometimes, you will have to implement your own data-collection algorithm to create your defined dataset. This could either come in the form of a web-scraper, or through a pdf-processer. 
-
 There are also datasets that are readily available for you to use, just ask your staff for access:
 * honeypot cyber-intrusion data
 * anonymized educational data
 
+Sometimes, you will have to implement your own data-collection algorithm to create your defined dataset. This could either come in the form of a web-scraper, or through a pdf-processer. Using the *market sentiment* example project from above, your method of data-collection will entail querying the [GraphQL](https://thegraph.com/docs/en/querying/graphql-api/#time-travel-queries) API to pull data. 
+
 ## Tech-Stack
 
-You will also identify the tools you need to complete your project.
+You will also identify the tools you need to complete your project. In a bulleted list, identify the tool you will need and the purpose of each tool. You should also identify the "sub-packages" that you will need for each tool.
+
+Again, using the market sentiment example project, a bulleted list of tools might include:
+
+* Python: Programming language to handle data flow & interface
+    * Streamlit: A dashboard tool to build interactive visualizations
+    * GraphQL: API to interface with Polymarket data
+    * Pandas: Package for data manipulation
+* Git: Version-control tool to push code
+* Excel: Sheet software for simple data exploration
 
 ## Risks
 
-Be sure to also outline what types of risks your project could hit
+Next, you will outline the possible risks that might prevent you from completing your project. These risks should encapsulate all possible problems, including those that relate to limited resources (i.e. paid datasets), or even limited person-hours.
+
+Using our example project, risks that could prevent us from completing our market sentiment analysis include:
+
+1. Time to learn new GraphQL API is not sufficient for data pulling
+2. Polymarket API requires paid subscription
+3. Streamlit server memory limits are not sufficient for project
+4. Market sentiment is too varied for conclusive findings
+5. Many different betting markets on Polymarket, scope is not well defined
+
+Of course, we cannot predict all possible risks that come with our project. However, by using our knowledge of previously completed projects, we can at least prepare for the most common ones.
 
 ## Solutions
 
-For each risk, outline a solution
+The reason that we list our risks is so that we can ideate next actions and frameworks that will help us avoid these issues. For each risk that you've listed, follow up with a possible solution that mostly or completely negates this risk. Feel free to get creative and utilize project management patterns that you've used in the past!
+
+Using the above list of risks, some possible solutions include:
+
+1. Utilize ChatGPT to design an initial GraphQL template to pull code.
+2. Explore free/trial API services. Or alternatively, use `selenium` and `bs4` to scrape your own data.
+3. Limit data to under 1gb.
+4. Select a specific scope before beginning your analysis, and present findings even if not conclusive (no [p-hacking](https://scienceinthenewsroom.org/resources/statistical-p-hacking-explained/#:~:text=This%20is%20a%20technique%20known,is%20no%20real%20underlying%20effect.)!)
+5. Related to above problem, select specific scope before beginning analysis.
 
 ## Schedule
+
+Below will be the schedule that our AEP follows. 
 
 1. Sprint 1 10/18: Project selection & planning
 2. Sprint 2 10/25: Technical analysis or pipelining complete.
