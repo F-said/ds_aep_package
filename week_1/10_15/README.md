@@ -34,7 +34,7 @@ On the other hand if you are interested in applying to other roles such as:
 
 ## Project Framework
 
-Inspired by the [Nicholas Carey](https://www.linkedin.com/posts/nicholasgcarey_career-development-strategies-for-landing-activity-7213908274344062977-lJP9/?utm_source=share&utm_medium=member_desktop), you will all complete a project that will have immediate applicable business value to a job or company that you are interested in.
+Inspired by [Nicholas Carey](https://www.linkedin.com/posts/nicholasgcarey_career-development-strategies-for-landing-activity-7213908274344062977-lJP9/?utm_source=share&utm_medium=member_desktop), you will all complete a project that will have immediate applicable business value to a job or company that you are interested in.
 
 For example, if you are interested in applying to a tech-startup that specializes in hiring travel advisors from all around the world, you could potentially help them shape strategy by comparing the number of advisors they have from each country, to the number of yearly visitors that respective country receives. By calculating these ratios, you could target potential advisors from under-utilized destinations.
 

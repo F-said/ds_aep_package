@@ -17,13 +17,15 @@ More information listed in each subsequent section below
 
 ## Goals
 
-This should go beyond technical terms and accurately describe the *thing* that your project will accomplish. If you were to describe the purpose of this project to someone that does not operate in Python, or in any other technical capacity, how would you describe it to them?
+You should begin your project by identifying your overarching goals.
+
+This goes beyond technical terms and describes the *thing* that your project will accomplish. If you were to describe the purpose of this project to someone that does not operate in Python, or in any other technical capacity, how would you describe it to them?
 
 For example, if you were designing a project that scraped data from multiple "predictions markets" and evaluated "market sentiment" by calculating descriptive statistics, you may state that the overarching goal of this project is to *"Evaluate and identify to which political or economic outcome the market is biased towards, by aggregating prediction market trends.*"
 
 ## Requirements
 
-Each project, regardless of its core-content, will fulfill the outlined specifications (based on the type of project you choose).
+Each project, regardless of its core-content, will fulfill the outlined specifications (based on the type of project you choose). As you complete your project, ensure that you are on the correct path by comparing your work to this list.
 
 **Analytics**
 * Exploratory analysis is performed
@@ -42,12 +44,14 @@ Each project, regardless of its core-content, will fulfill the outlined specific
 
 ## Datasets
 
+Next, you will identify a dataset that you will use for your project. This is more important to those of you that select the *analytics* type project, as the quality of your findings will be dictated by the quality of data you find.
+
 For your targeted project, ideate and find a dataset that will allow you to complete your planned goals. Utilize the following resources to find your data:
 * https://data.gov/
 * https://www.kaggle.com/datasets
 * https://datasetsearch.research.google.com/
 
-Sometimes, this 
+Sometimes, you will have to implement your own data-collection algorithm to create your defined dataset. This could either come in the form of a web-scraper, or through a pdf-processer. 
 
 There are also datasets that are readily available for you to use, just ask your staff for access:
 * honeypot cyber-intrusion data
@@ -55,15 +59,15 @@ There are also datasets that are readily available for you to use, just ask your
 
 ## Tech-Stack
 
-
+You will also identify the tools you need to complete your project.
 
 ## Risks
 
-
+Be sure to also outline what types of risks your project could hit
 
 ## Solutions
 
-
+For each risk, outline a solution
 
 ## Schedule
 
